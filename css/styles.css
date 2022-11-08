@@ -39,13 +39,14 @@
   font-size: 14px;
   line-height: 1.14;
 }
-.top01{
+.top01 {
   font-family: "Roboto", sans-serif;
   color: var(--fifth-color);
   background-color: var(--sixth-color);
-  letter-spacing: 0.03em }
+  letter-spacing: 0.03em;
+}
 
-  .topline {
+.topline {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -92,8 +93,12 @@
   font-size: 26px;
   line-height: 1.19;
 }
-.blue {color:#2196f3}
-.black {color:#000000}
+.blue {
+  color: #2196f3;
+}
+.black {
+  color: #000000;
+}
 
 .infolist {
   text-decoration: none;
@@ -109,21 +114,24 @@
   line-height: 2;
 }
 .sign-description {
-   color: var(--third-color);
-   font-size: 16px;
-   line-height: 1.8;
+  color: var(--third-color);
+  font-size: 16px;
+  line-height: 1.8;
 }
-.top2 {font-size: 44px;
+.top2 {
+  font-size: 44px;
   color: var(--secondary-color);
   line-height: 1.36;
   letter-spacing: 0.06em;
 }
-.maintext{font-size: 44px;
+.maintext {
+  font-size: 44px;
   color: var(--secondary-color);
   line-height: 1.36;
   letter-spacing: 0.06em;
 }
-.bigbutton{ background-color: var(--main-color);
+.bigbutton {
+  background-color: var(--main-color);
   font-size: 16px;
   font-weight: 700;
   color: var(--secondary-color);
@@ -133,24 +141,33 @@
   cursor: pointer;
   font-family: inherit;
 }
-.lorem1 {font-weight: 700;
+.lorem1 {
+  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
 }
-.lorem2 { font-size: 14px;
+.lorem2 {
+  font-size: 14px;
   line-height: 1.71;
-  color: var(--third-color);}
-  .top22 {font-size: 36px;
+  color: var(--third-color);
+}
+.top22 {
+  font-size: 36px;
   font-weight: 700;
   line-height: 1.17;
 }
-.maintext2 {font-size: 36px;
+.maintext2 {
+  font-size: 36px;
   font-weight: 700;
   line-height: 1.17;
 }
-.member { font-weight: 500;
+.member {
+  font-weight: 500;
   font-size: 16px;
-  line-height: 1.18;}
-  .job {font-size: 16px;
   line-height: 1.18;
-  color: var(--third-color);}
+}
+.job {
+  font-size: 16px;
+  line-height: 1.18;
+  color: var(--third-color);
+}
